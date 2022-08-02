@@ -10,3 +10,7 @@ Navicat16最新版本的注册机，目前最新版 v16.0.14测试能激活成�
 # 注册机共享
 
 博客地址直达：https://lijunyi.xyz/blogs/app/2022/NavicatPremium16.html
+
+# Typora最新版破解
+
+博客地址直达;https://lijunyi.xyz/blogs/app/2022/Typora.html
