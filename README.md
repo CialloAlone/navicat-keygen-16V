@@ -18,6 +18,9 @@ Navicat16最新版本的注册机，目前最新版 **v16.1.2** 测试能激活�
 
 博客地址直达：[Typora](https://lijunyi.xyz/blogs/app/2022/Typora.html)
 
+# IDEA JRebel激活教程
+博客地址直达：[IDEA JRebel激活教程](https://lijunyi.xyz/blogs/app/2022/JRebel.html)
+
 # IDM6.41 Build 2(May/31/2022)
 博客地址直达：[IDM6.41 Build 2](https://lijunyi.xyz/blogs/app/2022/idm.html)
 ## 说明
