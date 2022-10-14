@@ -1,12 +1,16 @@
 # navicat-keygen-16V 
-Navicat16最新版本的注册机，目前最新版 **v16.1.2** 测试能激活成功!
+Navicat16最新版本的注册机，目前最新版 **v16.1.3** 测试能激活成功!
 
-**注意点** ：注册机断网有网都可以激活，最主要的是第一步 勾选 `HOSTS` , 然后点击 `Patch` 按钮！第一步操作之后，查看自己的`HOSTS`文件有没有成功添加`127.0.0.1	activate.navicat.com`。仔细看教程🚨
+**注意点** ：
+- 1、注册机断网有网都可以激活，最主要的是第一步 勾选 `HOSTS` , 然后点击 `Patch` 按钮！第一步操作之后，查看自己的`HOSTS`文件有没有成功添加`127.0.0.1	activate.navicat.com`。仔细看教程🚨
+- 2、使用[Geek](https://geekuninstaller.com/download?version=1.5.0.161) 完全卸载旧版本
+- 3、为了防止不必要的激活问题，建议每次在激活新版本前，将注册机同目录下的`Navicat_2048bit_rsa_private_key.pem` 文件同步删除。
 
 (PS:成功激活后的小伙伴麻烦点点Starred 😁)
 
 # 最终效果图
-![1](https://user-images.githubusercontent.com/40384503/187619759-6523b77a-0263-4637-904b-acfbf467245a.png)
+![code](https://user-images.githubusercontent.com/40384503/195774411-27254d17-4afa-4f6e-b947-8353bc41b7ee.png)
+
 
 
 
