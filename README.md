@@ -33,3 +33,10 @@ Navicat16最新版本的注册机，目前最新版 **v16.1.3** 测试能激活�
 - 去除更新模块，IDM不会自动更新。
 - 去除无用的"注册"菜单。
 - IDM的其他地方未做更改，保留官方设置。
+
+# IDM6.41Build3(Oct/03/2022)
+![微信截图_20221019093154](https://user-images.githubusercontent.com/40384503/196576165-69658ec0-a49b-4a30-ba45-a367ae128e7b.png)
+## 说明
+- 直接安装，安装完即为注册版，免激活！
+- [*度云盘](https://pan.baidu.com/s/1za6taKw8IyToc1upSngFZg?pwd=c7kf)
+
